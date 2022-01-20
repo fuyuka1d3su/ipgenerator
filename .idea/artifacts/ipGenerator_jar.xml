@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ipGenerator:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ipGenerator_jar</output-path>
+    <root id="archive" name="ipGenerator.jar">
+      <element id="module-output" name="ipGenerator" />
+    </root>
+  </artifact>
+</component>
